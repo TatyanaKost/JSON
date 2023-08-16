@@ -43,8 +43,17 @@ JSON
  14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON:
  vim skills.json
  {
-     "1": "Javaskript",
-     "2": "Data types"
+     "Test Documentation":"Types":[
+          "First":"Check List",
+          "Second":"Tast Case",
+          "Third":"Bug Report",
+          "Fourth":"Use Case"
+     ],    
+     "Black Box Test":"Types":[
+          "First":"Функциональное тестирование",
+	  "Second":"Нефункциональное тестирование",
+	  "Third":"Регрессионное тестирование"
+     ]	
  }
 
  15. Отправить сразу 2 файла на внешний репозиторий. git add preferences.json skills.json
