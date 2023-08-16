@@ -1,4 +1,13 @@
 {
-     "1": "Javaskript",
-     "2": "Data types"
+     "Test Documentation":"Types":[
+          "First":"Check List",
+          "Second":"Tast Case",
+          "Third":"Bug Report",
+          "Fourth":"Use Case"
+     ],    
+     "Black Box Test":"Types":[
+          "First":"Функциональное тестирование",
+	  "Second":"Нефункциональное тестирование",
+	  "Third":"Регрессионное тестирование"
+     ]	
 }
